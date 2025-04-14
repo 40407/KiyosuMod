@@ -1,4 +1,6 @@
 # KiyosuMod
+### ZoneMod竞技配置框架是必要的: https://github.com/SirPlease/L4D2-Competitive-Rework/
+
 物资：
 打包时间1s，每0.1s回复1实血;
 药2和针1;
